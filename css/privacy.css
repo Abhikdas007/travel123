@@ -20,3 +20,34 @@
     margin: 1rem 0;
     font-size: 1.45rem;
 }
+
+
+.cancelation-div {
+    padding: 3rem 0;
+}
+
+.cancelation-div h2 {
+    text-align: center;
+    font-size: 2rem;
+    padding: 1rem 0;
+}
+
+.cancelation-div p {
+    line-height: 2;
+    font-size: 1.45rem;
+}
+
+.refunds {
+    padding: 3rem 0;
+}
+
+.refunds h2 {
+    text-align: center;
+    font-size: 2rem;
+    padding: 1rem 0;
+}
+
+.refunds p {
+    line-height: 2;
+    font-size: 1.45rem;
+}
