@@ -79,8 +79,16 @@ section {
    cursor: pointer;
 }
 
+
 .btn:hover {
    background: var(--main-color);
+}
+
+.quick-pay-btn {
+   border-radius: 10px;
+   margin-left: 5px;
+   font-weight: bold;
+   color: white;
 }
 
 .heading-title {
@@ -116,6 +124,15 @@ section {
    margin-left: 2rem;
    color: var(--black);
 }
+
+.header .navbar a:last-child{
+   color: var(--white);
+}
+
+.header .navbar a:last-child:hover{
+   color: var(--white);
+}
+
 
 .header .navbar a:hover {
    color: var(--main-color);
