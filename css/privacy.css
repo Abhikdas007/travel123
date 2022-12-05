@@ -1,8 +1,7 @@
-.privacyPolicyContainer {
+.PTContainer {
     max-width: 1100px;
     margin:auto ;
-    padding: 0 2rem;
-    padding: 5rem 0;
+    padding: 0 3rem;
 }
 .privacyPolicyContainer p{
     line-height: 2;
@@ -11,7 +10,13 @@
 }
 
 @media(max-width:750px){
-    .privacyPolicyContainer {
-        padding: 1rem 0;
+    .PTContainer {
+        padding: 0 2rem;
     }
+}
+
+.termsComtainer li {
+    line-height: 2;
+    margin: 1rem 0;
+    font-size: 1.45rem;
 }
