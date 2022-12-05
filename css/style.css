@@ -86,9 +86,8 @@ section {
 
 .quick-pay-btn {
    border-radius: 10px;
-   margin-left: 5px;
    font-weight: bold;
-   color: white;
+   padding: 0.85rem 3rem;
 }
 
 .heading-title {
