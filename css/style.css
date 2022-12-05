@@ -90,6 +90,7 @@ section {
    font-weight: bold;
    padding: 0.85rem 3rem;
    transition: 1s;
+   margin-top: 0;
 }
 
 .quick-pay-btn:hover {
@@ -207,14 +208,16 @@ section {
    right: 0; */
    height: 7rem;
    width: 7rem;
+   font-weight: bold;
    /* background: var(--white); */
-   color: var(--main-color);
+   color: var(--white);
+   /* border-radius: 20px; */
 }
 
 .home .swiper-button-next:hover,
 .home .swiper-button-prev:hover {
    background: none;
-   color: var(--white);
+   color: var(--main-color);
 }
 
 .home .swiper-button-next::after,
