@@ -85,9 +85,15 @@ section {
 }
 
 .quick-pay-btn {
+   background-color: var(--main-color);
    border-radius: 10px;
    font-weight: bold;
    padding: 0.85rem 3rem;
+   transition: 1s;
+}
+
+.quick-pay-btn:hover {
+   background: var(--black);
 }
 
 .heading-title {
