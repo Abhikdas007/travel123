@@ -478,6 +478,23 @@ section {
    margin-top: 1rem;
 }
 
+ /* ================ Popular tour Pacages =============== */
+
+
+.popularpac-box img {
+   width: 450px;
+}
+
+
+
+
+
+
+
+
+
+
+
 /* ================= .packages page =================== */
 
 .packages .box-container {
